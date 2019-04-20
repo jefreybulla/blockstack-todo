@@ -7,7 +7,7 @@
     </div>
   </div>
 </template>
-
+<!-- generate Blockstack authRequest-->
 <script>
 import { userSession } from '../userSession'
 
