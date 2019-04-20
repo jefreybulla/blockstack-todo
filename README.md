@@ -21,5 +21,5 @@ npm run build
 npm run lint
 ```
 
-[Update 4/20/2018: app works but tutorial does not correspond to this code]
+[Update 4/20/2019: app works but tutorial does not correspond to this code]
 For detailed explanation on how this app works, checkout the [guide](https://blockstack.org/tutorials/todo-list/).
